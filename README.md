@@ -2,7 +2,7 @@
 ![istockphoto-1142873622-612x612](https://user-images.githubusercontent.com/96552268/172393719-4dc90793-b2c2-42f3-985d-ade0eb67e1c5.jpg)
 
 ## Tools
-- Jupyter Notebbok
+- Jupyter Notebook
 - Python
 - Pandas
 - Gmaps
