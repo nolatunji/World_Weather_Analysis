@@ -5,6 +5,7 @@
 - Jupyter Notebook
 - Python
 - Pandas
+- Matplotlib
 - Gmaps
 - OpenWeather and Google Maps APIs
 
